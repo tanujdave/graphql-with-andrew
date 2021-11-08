@@ -7,7 +7,7 @@
     "serve": "nodemon ./app.js"
   },
   "dependencies": {
-    "apollo-server": "^2.15.0"
+    "apollo-server": "^2.25.3"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
